@@ -11,7 +11,7 @@ A place where blood donors can view the statistics of their donation as well as 
 
 <div> <b> 2.</b> Open phpMyAdmin on Wampserver (left click on the WAMP icon on the bottom of windows taskbar and click phpMyAdmin) </div>
 
-<div> <b> 3.</b> Login to phpMyAdmin (if the user has no account, username shall be <b>root</b> with no password) and create a new database titled <dl><dd><b>bloodbanksystem</b>.</dd></dl> </div>
+<div> <b> 3.</b> Login to phpMyAdmin (if the user has no account, username shall be <b>root</b> with no password) and create a new database titled <b>bloodbanksystem</b>. </div>
 
 <div> <b> 4. Download and extract the ZIP file from this repositry. The extrated folder should be named "BloodDonationViewer"</b>
   
