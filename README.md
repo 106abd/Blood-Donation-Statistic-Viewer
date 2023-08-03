@@ -1,11 +1,15 @@
 <h1> Blood-Donation-Statistic-Viewer Web Application </h1>
 
 <h2> Description </h2> 
-<div>A place where blood donors can view the statistics of their donation as well as general statistics about all logged blood donations.</div> 
+
+<div>A place where blood donors can view the statistics of their donation as well as general statistics about all logged blood donations.</div>
+
 <h6></h6>
+
 </div> <p>This website was a group effort built using a WAMP stack. My contributions include sketching the general design of the website, configuring the database (setting up the individual tables base on ER diagrams and schemas), and the entirety of the backend which involves displaying queries made to the database.</p></div>
 
 <h2> Installation and Execution Guide </h2>
+
 </div> <b> NOTE: </b> You must have Wampserver installed in order for the installation guide to be effective. </div>
 <h6></h6>
 
@@ -13,9 +17,9 @@
 
 <div> <b> 2.</b> Open phpMyAdmin on Wampserver (left click on the WAMP icon on the bottom of windows taskbar and click phpMyAdmin) </div>
 
-<div> <b> 3.</b> Login to phpMyAdmin (if the user has no account, username shall be <b>root</b> with no password) and create a new database titled <b>bloodbanksystem</b>. </div>
+<div> <b> 3.</b> Login to phpMyAdmin (if the user has no account, username shall be <b>root</b> with no password) and create a new database titled <dl><dd><b>bloodbanksystem</b>.</dd></dl> </div>
 
-<div> <b> 4. Download and extract the ZIP file from this repositry. The extrated folder should be named "BloodDonationViewer"</b>
+<div> <b> 4. </b> Download and extract the ZIP file from this repositry. The extrated folder should be named "BloodDonationViewer"</b>
   
 <div> <b> 5.</b> Click on the bloodbanksystem database and insert the script "bloodbanksystem" SQL text file (titled bloodbanksystem) by clicking "Import" and then selecting the script. </div>
 
