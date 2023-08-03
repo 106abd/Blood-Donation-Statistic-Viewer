@@ -2,7 +2,7 @@
 
 <h2> Description </h2> 
 <div>A place where blood donors can view the statistics of their donation as well as general statistics about all logged blood donations.</div> 
-
+<h6></h6>
 </div> <p>This website was a group effort built using a WAMP stack. My contributions include sketching the general design of the website, configuring the database (setting up the individual tables base on ER diagrams and schemas), and the entirety of the backend which involves displaying queries made to the database.</p></div>
 
 <h2> Installation and Execution Guide </h2>
