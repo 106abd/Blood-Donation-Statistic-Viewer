@@ -5,7 +5,7 @@ A place where blood donors can view the statistics of their donation as well as 
 
 <h2> Installation and Execution Guide </h2>
 </div> <b> NOTE: </b> You must have Wampserver installed in order for the installation guide to be effective. </div>
-<div></div>
+<h6></h6>
 <div> <b> 1.</b> Run Wampserver </div>
 
 <div> <b> 2.</b> Open phpMyAdmin on Wampserver (left click on the WAMP icon on the bottom of windows taskbar and click phpMyAdmin) </div>
