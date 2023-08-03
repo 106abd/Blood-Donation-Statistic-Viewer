@@ -1,7 +1,9 @@
 <h1> Blood-Donation-Statistic-Viewer Web Application </h1>
 
 <h2> Description </h2> 
-A place where blood donors can view the statistics of their donation as well as general statistics about all logged blood donations. This website was a group effort built using a WAMP stack. My contributions include sketching the general design of the website, configuring the database (setting up the individual tables base on ER diagrams and schemas), and the entirety of the backend which involves displaying queries made to the database.
+<div>A place where blood donors can view the statistics of their donation as well as general statistics about all logged blood donations.</div> 
+
+</div> <p>This website was a group effort built using a WAMP stack. My contributions include sketching the general design of the website, configuring the database (setting up the individual tables base on ER diagrams and schemas), and the entirety of the backend which involves displaying queries made to the database.</p></div>
 
 <h2> Installation and Execution Guide </h2>
 </div> <b> NOTE: </b> You must have Wampserver installed in order for the installation guide to be effective. </div>
